@@ -17,6 +17,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
   Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ## Desain Database
+
 ![Desain DB](https://github.com/cadzshi/TP3DPBO2024C1/assets/100210168/62b064ba-80eb-4243-a7d8-b129d4eb9f4c)
 
 ## Alur dan Dokumentasi
@@ -57,4 +58,4 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
     - User klik tombol "Hapus Data"
     - Maka user akan dikembalikan ke halaman Home dan data akan terhapus
 
-Untuk dokumentasi (foto dan vide) terdapat di folder Screenshot
+Untuk dokumentasi (foto dan video) terdapat di folder Screenshot
