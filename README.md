@@ -17,6 +17,7 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
   Menggunakan template/skin tabel yang sama untuk menampilkan tabel
 
 ## Desain Database
+![Desain DB](https://github.com/cadzshi/TP3DPBO2024C1/assets/100210168/62b064ba-80eb-4243-a7d8-b129d4eb9f4c)
 
 ## Alur dan Dokumentasi
 
