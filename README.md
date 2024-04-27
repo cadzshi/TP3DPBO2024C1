@@ -55,3 +55,5 @@ Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai be
   - User dapat menghapus data yang telah ada:
     - User klik tombol "Hapus Data"
     - Maka user akan dikembalikan ke halaman Home dan data akan terhapus
+
+Untuk dokumentasi (foto dan vide) terdapat di folder Screenshot
